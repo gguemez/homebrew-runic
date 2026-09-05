@@ -1,6 +1,6 @@
 cask "runic" do
-  version "0.61.0"
-  sha256 "e814cc5a5e54fb5f94ee6db907ae4a2dc37f8d5768de9c597eae69cd58a22a7a"
+  version "0.61.1"
+  sha256 "96265c5524fb970da5879d37031ad33b409e4c94b29376a108e28cced04833e0"
 
   url "https://dl.runic.guemez.net/Runic-#{version}.dmg",
       verified: "dl.runic.guemez.net/"
